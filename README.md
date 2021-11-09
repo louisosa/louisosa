@@ -11,6 +11,10 @@
 <h1>
 <center>
 centro escolar pedro anzures
+  </h1>
+  <hr size="4" aling="center" width="400" color="red"
+ <figure>
+<img width= "50%" src="img/logocepa.html" alt="logo de CEPA">  
 </center>
 </h1>
 </header>
